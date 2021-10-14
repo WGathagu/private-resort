@@ -1,0 +1,45 @@
+ h1 {
+    color: rgb(100, 142, 204);
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 2.8em;
+    text-transform: uppercase;
+  }
+  h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+    margin: 2em 0 0 0;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1.8em;
+    font-weight: normal;
+    text-transform: uppercase;
+  }
+  p {
+    font-family: sans-serif;
+  }
+  ul {
+    line-height: 20px;
+  }
+  ol {
+    line-height: 20px;
+  }
+  body {
+    color: #325050;
+    background: #cde6e6;
+    font-family: 'Libre Baskerville', sans-serif;
+    }
+    .container {
+        padding: 10px;
+        border: 1px;
+      }
+      
+    .one {
+        width: 15%;
+        float: left;
+    }
+      
+    .two {
+        margin-left: 15%;
+    }
+  
