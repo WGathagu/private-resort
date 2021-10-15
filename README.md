@@ -1,5 +1,5 @@
-# MyPet
-#### Website that describes my Pet's characteristics, 1.0
+# Dragon Resort
+#### Website that describes Dragon Private Resort, 1.0
 #### By **WGathagu**
 ## Description
 Has 3 pages, Homepage, About page and Other Pets page
